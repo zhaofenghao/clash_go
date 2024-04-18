@@ -11,7 +11,7 @@ import (
 	"hash/crc32"
 	"time"
 
-	"github.com/zhaofenghao/protobytes"
+	"github.com/Dreamacro/protobytes"
 )
 
 const (
