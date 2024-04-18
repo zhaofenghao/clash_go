@@ -18,9 +18,9 @@ import (
 	"io"
 	"net"
 
-	"github.com/zhaofenghao/clash/adapter/outbound"
-	"github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/listener/socks"
+	"github.com/zhaofenghao/clash_go/adapter/outbound"
+	"github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/listener/socks"
 )
 
 func main() {

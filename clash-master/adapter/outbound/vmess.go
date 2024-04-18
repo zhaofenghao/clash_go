@@ -10,12 +10,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/zhaofenghao/clash/component/dialer"
-	"github.com/zhaofenghao/clash/component/resolver"
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/transport/gun"
-	"github.com/zhaofenghao/clash/transport/socks5"
-	"github.com/zhaofenghao/clash/transport/vmess"
+	"github.com/zhaofenghao/clash_go/component/dialer"
+	"github.com/zhaofenghao/clash_go/component/resolver"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/transport/gun"
+	"github.com/zhaofenghao/clash_go/transport/socks5"
+	"github.com/zhaofenghao/clash_go/transport/vmess"
 
 	"golang.org/x/net/http2"
 )

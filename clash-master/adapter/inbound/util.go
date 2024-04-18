@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/zhaofenghao/clash/common/util"
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/transport/socks5"
+	"github.com/zhaofenghao/clash_go/common/util"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/transport/socks5"
 )
 
 func parseSocksAddr(target socks5.Addr) *C.Metadata {

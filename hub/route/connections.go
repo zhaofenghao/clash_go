@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/zhaofenghao/clash/tunnel/statistic"
+	"github.com/zhaofenghao/clash_go/tunnel/statistic"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"

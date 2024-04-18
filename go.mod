@@ -1,9 +1,9 @@
-module github.com/zhaofenghao/clash
+module github.com/Dreamacro/clash_go
 
 go 1.21
 
 require (
-	github.com/zhaofenghao/protobytes v0.0.0-20230617041236-6500a9f4f158
+	github.com/Dreamacro/protobytes v0.0.0-20230617041236-6500a9f4f158
 	github.com/dlclark/regexp2 v1.10.0
 	github.com/go-chi/chi/v5 v5.0.10
 	github.com/go-chi/cors v1.2.1

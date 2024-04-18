@@ -3,7 +3,7 @@ package route
 import (
 	"net/http"
 
-	"github.com/zhaofenghao/clash/tunnel"
+	"github.com/zhaofenghao/clash_go/tunnel"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"

@@ -6,7 +6,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/zhaofenghao/clash/log"
+	"github.com/zhaofenghao/clash_go/log"
 )
 
 var printMarkWarn = sync.OnceFunc(func() {

@@ -6,7 +6,7 @@ import (
 	"net/netip"
 	"unsafe"
 
-	"github.com/zhaofenghao/clash/common/pool"
+	"github.com/zhaofenghao/clash_go/common/pool"
 
 	"golang.org/x/sys/windows"
 )

@@ -4,9 +4,9 @@ import (
 	"net"
 	"net/netip"
 
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/context"
-	"github.com/zhaofenghao/clash/transport/socks5"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/context"
+	"github.com/zhaofenghao/clash_go/transport/socks5"
 )
 
 // NewHTTP receive normal http request and return HTTPContext

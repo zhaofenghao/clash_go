@@ -3,9 +3,9 @@ package dns
 import (
 	"net"
 
-	"github.com/zhaofenghao/clash/common/cache"
-	"github.com/zhaofenghao/clash/component/fakeip"
-	C "github.com/zhaofenghao/clash/constant"
+	"github.com/zhaofenghao/clash_go/common/cache"
+	"github.com/zhaofenghao/clash_go/component/fakeip"
+	C "github.com/zhaofenghao/clash_go/constant"
 )
 
 type ResolverEnhancer struct {

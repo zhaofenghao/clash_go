@@ -6,11 +6,11 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/zhaofenghao/clash/common/structure"
-	"github.com/zhaofenghao/clash/component/dialer"
-	C "github.com/zhaofenghao/clash/constant"
-	obfs "github.com/zhaofenghao/clash/transport/simple-obfs"
-	"github.com/zhaofenghao/clash/transport/snell"
+	"github.com/zhaofenghao/clash_go/common/structure"
+	"github.com/zhaofenghao/clash_go/component/dialer"
+	C "github.com/zhaofenghao/clash_go/constant"
+	obfs "github.com/zhaofenghao/clash_go/transport/simple-obfs"
+	"github.com/zhaofenghao/clash_go/transport/snell"
 )
 
 type Snell struct {

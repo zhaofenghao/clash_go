@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/zhaofenghao/clash/component/auth"
+	"github.com/zhaofenghao/clash_go/component/auth"
 )
 
 var authenticator auth.Authenticator

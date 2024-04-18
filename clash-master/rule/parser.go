@@ -3,7 +3,7 @@ package rules
 import (
 	"fmt"
 
-	C "github.com/zhaofenghao/clash/constant"
+	C "github.com/zhaofenghao/clash_go/constant"
 )
 
 func ParseRule(tp, payload, target string, params []string) (C.Rule, error) {

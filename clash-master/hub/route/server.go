@@ -10,9 +10,9 @@ import (
 	"time"
 	"unsafe"
 
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/log"
-	"github.com/zhaofenghao/clash/tunnel/statistic"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/log"
+	"github.com/zhaofenghao/clash_go/tunnel/statistic"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"

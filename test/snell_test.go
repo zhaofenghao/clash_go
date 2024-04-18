@@ -8,8 +8,8 @@ import (
 	"github.com/docker/docker/api/types/container"
 	"github.com/stretchr/testify/require"
 
-	"github.com/zhaofenghao/clash/adapter/outbound"
-	C "github.com/zhaofenghao/clash/constant"
+	"github.com/zhaofenghao/clash_go/adapter/outbound"
+	C "github.com/zhaofenghao/clash_go/constant"
 )
 
 func TestClash_SnellObfsHTTP(t *testing.T) {

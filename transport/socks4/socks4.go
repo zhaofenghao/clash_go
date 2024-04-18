@@ -7,7 +7,7 @@ import (
 	"net/netip"
 	"strconv"
 
-	"github.com/zhaofenghao/clash/component/auth"
+	"github.com/zhaofenghao/clash_go/component/auth"
 
 	"github.com/zhaofenghao/protobytes"
 )

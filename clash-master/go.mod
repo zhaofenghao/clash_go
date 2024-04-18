@@ -1,4 +1,4 @@
-module github.com/zhaofenghao/clash
+module github.com/zhaofenghao/clash_go
 
 go 1.21
 

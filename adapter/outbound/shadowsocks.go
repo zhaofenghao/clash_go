@@ -7,13 +7,13 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/zhaofenghao/clash/common/structure"
-	"github.com/zhaofenghao/clash/component/dialer"
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/transport/shadowsocks/core"
-	obfs "github.com/zhaofenghao/clash/transport/simple-obfs"
-	"github.com/zhaofenghao/clash/transport/socks5"
-	v2rayObfs "github.com/zhaofenghao/clash/transport/v2ray-plugin"
+	"github.com/zhaofenghao/clash_go/common/structure"
+	"github.com/zhaofenghao/clash_go/component/dialer"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/transport/shadowsocks/core"
+	obfs "github.com/zhaofenghao/clash_go/transport/simple-obfs"
+	"github.com/zhaofenghao/clash_go/transport/socks5"
+	v2rayObfs "github.com/zhaofenghao/clash_go/transport/v2ray-plugin"
 )
 
 type ShadowSocks struct {

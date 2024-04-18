@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net"
 
-	"github.com/zhaofenghao/clash/component/resolver"
+	"github.com/zhaofenghao/clash_go/component/resolver"
 )
 
 func DialContext(ctx context.Context, network, address string, options ...Option) (net.Conn, error) {

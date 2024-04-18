@@ -1,7 +1,7 @@
 package provider
 
 import (
-	"github.com/zhaofenghao/clash/constant"
+	"github.com/zhaofenghao/clash_go/constant"
 )
 
 // Vehicle Type

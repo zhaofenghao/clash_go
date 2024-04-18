@@ -9,11 +9,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zhaofenghao/clash/common/cache"
-	"github.com/zhaofenghao/clash/component/fakeip"
-	"github.com/zhaofenghao/clash/component/resolver"
-	"github.com/zhaofenghao/clash/component/trie"
-	C "github.com/zhaofenghao/clash/constant"
+	"github.com/zhaofenghao/clash_go/common/cache"
+	"github.com/zhaofenghao/clash_go/component/fakeip"
+	"github.com/zhaofenghao/clash_go/component/resolver"
+	"github.com/zhaofenghao/clash_go/component/trie"
+	C "github.com/zhaofenghao/clash_go/constant"
 
 	D "github.com/miekg/dns"
 	"github.com/samber/lo"

@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/zhaofenghao/clash/common/pool"
+	"github.com/zhaofenghao/clash_go/common/pool"
 
 	"github.com/zhaofenghao/protobytes"
 )

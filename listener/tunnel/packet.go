@@ -3,7 +3,7 @@ package tunnel
 import (
 	"net"
 
-	"github.com/zhaofenghao/clash/common/pool"
+	"github.com/zhaofenghao/clash_go/common/pool"
 )
 
 type packet struct {

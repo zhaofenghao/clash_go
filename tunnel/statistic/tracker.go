@@ -4,7 +4,7 @@ import (
 	"net"
 	"time"
 
-	C "github.com/zhaofenghao/clash/constant"
+	C "github.com/zhaofenghao/clash_go/constant"
 
 	"github.com/gofrs/uuid/v5"
 	"go.uber.org/atomic"

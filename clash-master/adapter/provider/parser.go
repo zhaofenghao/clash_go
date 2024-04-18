@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/zhaofenghao/clash/common/structure"
-	C "github.com/zhaofenghao/clash/constant"
-	types "github.com/zhaofenghao/clash/constant/provider"
+	"github.com/zhaofenghao/clash_go/common/structure"
+	C "github.com/zhaofenghao/clash_go/constant"
+	types "github.com/zhaofenghao/clash_go/constant/provider"
 )
 
 var (

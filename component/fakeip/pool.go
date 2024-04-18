@@ -6,9 +6,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/zhaofenghao/clash/common/cache"
-	"github.com/zhaofenghao/clash/component/profile/cachefile"
-	"github.com/zhaofenghao/clash/component/trie"
+	"github.com/zhaofenghao/clash_go/common/cache"
+	"github.com/zhaofenghao/clash_go/component/profile/cachefile"
+	"github.com/zhaofenghao/clash_go/component/trie"
 )
 
 type store interface {

@@ -8,8 +8,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/zhaofenghao/clash/component/dialer"
-	"github.com/zhaofenghao/clash/component/resolver"
+	"github.com/zhaofenghao/clash_go/component/dialer"
+	"github.com/zhaofenghao/clash_go/component/resolver"
 
 	D "github.com/miekg/dns"
 )

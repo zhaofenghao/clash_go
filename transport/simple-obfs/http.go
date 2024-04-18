@@ -10,7 +10,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/zhaofenghao/clash/common/pool"
+	"github.com/zhaofenghao/clash_go/common/pool"
 )
 
 // HTTPObfs is shadowsocks http simple-obfs implementation

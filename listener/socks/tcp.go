@@ -4,12 +4,12 @@ import (
 	"io"
 	"net"
 
-	"github.com/zhaofenghao/clash/adapter/inbound"
-	N "github.com/zhaofenghao/clash/common/net"
-	C "github.com/zhaofenghao/clash/constant"
-	authStore "github.com/zhaofenghao/clash/listener/auth"
-	"github.com/zhaofenghao/clash/transport/socks4"
-	"github.com/zhaofenghao/clash/transport/socks5"
+	"github.com/zhaofenghao/clash_go/adapter/inbound"
+	N "github.com/zhaofenghao/clash_go/common/net"
+	C "github.com/zhaofenghao/clash_go/constant"
+	authStore "github.com/zhaofenghao/clash_go/listener/auth"
+	"github.com/zhaofenghao/clash_go/transport/socks4"
+	"github.com/zhaofenghao/clash_go/transport/socks5"
 )
 
 type Listener struct {

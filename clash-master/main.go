@@ -10,11 +10,11 @@ import (
 	"syscall"
 	_ "time/tzdata"
 
-	"github.com/zhaofenghao/clash/config"
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/hub"
-	"github.com/zhaofenghao/clash/hub/executor"
-	"github.com/zhaofenghao/clash/log"
+	"github.com/zhaofenghao/clash_go/config"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/hub"
+	"github.com/zhaofenghao/clash_go/hub/executor"
+	"github.com/zhaofenghao/clash_go/log"
 
 	"go.uber.org/automaxprocs/maxprocs"
 )

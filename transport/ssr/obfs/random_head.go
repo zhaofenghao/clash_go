@@ -7,7 +7,7 @@ import (
 	mathRand "math/rand"
 	"net"
 
-	"github.com/zhaofenghao/clash/common/pool"
+	"github.com/zhaofenghao/clash_go/common/pool"
 )
 
 func init() {

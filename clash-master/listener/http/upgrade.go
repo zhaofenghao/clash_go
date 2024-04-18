@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/zhaofenghao/clash/adapter/inbound"
-	N "github.com/zhaofenghao/clash/common/net"
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/transport/socks5"
+	"github.com/zhaofenghao/clash_go/adapter/inbound"
+	N "github.com/zhaofenghao/clash_go/common/net"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/transport/socks5"
 )
 
 func isUpgradeRequest(req *http.Request) bool {

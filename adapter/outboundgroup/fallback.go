@@ -4,11 +4,11 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/zhaofenghao/clash/adapter/outbound"
-	"github.com/zhaofenghao/clash/common/singledo"
-	"github.com/zhaofenghao/clash/component/dialer"
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/constant/provider"
+	"github.com/zhaofenghao/clash_go/adapter/outbound"
+	"github.com/zhaofenghao/clash_go/common/singledo"
+	"github.com/zhaofenghao/clash_go/component/dialer"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/constant/provider"
 )
 
 type Fallback struct {

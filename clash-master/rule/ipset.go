@@ -1,9 +1,9 @@
 package rules
 
 import (
-	"github.com/zhaofenghao/clash/component/ipset"
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/log"
+	"github.com/zhaofenghao/clash_go/component/ipset"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/log"
 )
 
 // Implements C.Rule

@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zhaofenghao/clash/common/cache"
-	"github.com/zhaofenghao/clash/common/picker"
-	"github.com/zhaofenghao/clash/log"
+	"github.com/zhaofenghao/clash_go/common/cache"
+	"github.com/zhaofenghao/clash_go/common/picker"
+	"github.com/zhaofenghao/clash_go/log"
 
 	D "github.com/miekg/dns"
 	"github.com/samber/lo"

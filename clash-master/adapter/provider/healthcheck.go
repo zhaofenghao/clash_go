@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/zhaofenghao/clash/common/batch"
-	C "github.com/zhaofenghao/clash/constant"
+	"github.com/zhaofenghao/clash_go/common/batch"
+	C "github.com/zhaofenghao/clash_go/constant"
 
 	"github.com/samber/lo"
 	"go.uber.org/atomic"

@@ -4,11 +4,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/zhaofenghao/clash/adapter/outbound"
-	"github.com/zhaofenghao/clash/adapter/provider"
-	"github.com/zhaofenghao/clash/common/structure"
-	C "github.com/zhaofenghao/clash/constant"
-	types "github.com/zhaofenghao/clash/constant/provider"
+	"github.com/zhaofenghao/clash_go/adapter/outbound"
+	"github.com/zhaofenghao/clash_go/adapter/provider"
+	"github.com/zhaofenghao/clash_go/common/structure"
+	C "github.com/zhaofenghao/clash_go/constant"
+	types "github.com/zhaofenghao/clash_go/constant/provider"
 
 	regexp "github.com/dlclark/regexp2"
 )

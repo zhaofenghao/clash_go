@@ -27,11 +27,11 @@ export default defineConfig({
     sidebar: chapters,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zhaofenghao/clash' },
+      { icon: 'github', link: 'https://github.com/zhaofenghao/clash_go' },
     ],
 
     editLink: {
-      pattern: 'https://github.com/zhaofenghao/clash/edit/master/docs/:path',
+      pattern: 'https://github.com/zhaofenghao/clash_go/edit/master/docs/:path',
       text: 'Edit this page on GitHub'
     },
 
@@ -50,8 +50,8 @@ function nav() {
     {
       text: 'Download',
       items: [
-        { text: 'Open-source Edition', link: 'https://github.com/zhaofenghao/clash/releases/' },
-        { text: 'Premium Edition', link: 'https://github.com/zhaofenghao/clash/releases/tag/premium' },
+        { text: 'Open-source Edition', link: 'https://github.com/zhaofenghao/clash_go/releases/' },
+        { text: 'Premium Edition', link: 'https://github.com/zhaofenghao/clash_go/releases/tag/premium' },
       ]
     }
   ]

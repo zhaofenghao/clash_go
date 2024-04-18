@@ -5,12 +5,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zhaofenghao/clash/common/cache"
-	"github.com/zhaofenghao/clash/component/fakeip"
-	"github.com/zhaofenghao/clash/component/trie"
-	C "github.com/zhaofenghao/clash/constant"
-	"github.com/zhaofenghao/clash/context"
-	"github.com/zhaofenghao/clash/log"
+	"github.com/zhaofenghao/clash_go/common/cache"
+	"github.com/zhaofenghao/clash_go/component/fakeip"
+	"github.com/zhaofenghao/clash_go/component/trie"
+	C "github.com/zhaofenghao/clash_go/constant"
+	"github.com/zhaofenghao/clash_go/context"
+	"github.com/zhaofenghao/clash_go/log"
 
 	D "github.com/miekg/dns"
 )

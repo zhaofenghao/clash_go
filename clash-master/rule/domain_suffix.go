@@ -3,7 +3,7 @@ package rules
 import (
 	"strings"
 
-	C "github.com/zhaofenghao/clash/constant"
+	C "github.com/zhaofenghao/clash_go/constant"
 )
 
 // Implements C.Rule
