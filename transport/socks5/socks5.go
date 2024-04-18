@@ -10,8 +10,6 @@ import (
 	"strconv"
 
 	"github.com/zhaofenghao/clash_go/component/auth"
-
-	"github.com/zhaofenghao/protobytes"
 )
 
 // Error represents a SOCKS error

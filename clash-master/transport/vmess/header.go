@@ -10,8 +10,6 @@ import (
 	"hash"
 	"hash/crc32"
 	"time"
-
-	"github.com/zhaofenghao/protobytes"
 )
 
 const (

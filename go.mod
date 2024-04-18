@@ -1,6 +1,6 @@
-module github.com/Dreamacro/clash_go
+module github.com/zhaofenghao/clash_go
 
-go 1.21
+go 1.20
 
 require (
 	github.com/Dreamacro/protobytes v0.0.0-20230617041236-6500a9f4f158

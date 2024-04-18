@@ -2,6 +2,7 @@ package route
 
 import (
 	"encoding/json"
+	"github.com/Dreamacro/protobytes"
 	"net/http"
 	"strconv"
 	"time"
@@ -11,7 +12,6 @@ import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
-	"github.com/zhaofenghao/protobytes"
 )
 
 func connectionRouter() http.Handler {

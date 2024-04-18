@@ -6,8 +6,6 @@ import (
 	"io"
 	"net"
 	"net/netip"
-
-	"github.com/zhaofenghao/protobytes"
 )
 
 type SessionStatus = byte

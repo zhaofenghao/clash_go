@@ -15,8 +15,6 @@ import (
 	C "github.com/zhaofenghao/clash_go/constant"
 	"github.com/zhaofenghao/clash_go/transport/socks5"
 	"github.com/zhaofenghao/clash_go/transport/vmess"
-
-	"github.com/zhaofenghao/protobytes"
 )
 
 const (

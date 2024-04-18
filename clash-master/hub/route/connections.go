@@ -8,10 +8,8 @@ import (
 
 	"github.com/zhaofenghao/clash_go/tunnel/statistic"
 
-	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
-	"github.com/zhaofenghao/protobytes"
 )
 
 func connectionRouter() http.Handler {

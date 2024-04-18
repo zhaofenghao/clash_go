@@ -3,8 +3,6 @@ package pool
 import (
 	"bytes"
 	"sync"
-
-	"github.com/zhaofenghao/protobytes"
 )
 
 var (

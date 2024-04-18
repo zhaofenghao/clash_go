@@ -7,8 +7,6 @@ import (
 	"github.com/zhaofenghao/clash_go/component/resolver"
 	C "github.com/zhaofenghao/clash_go/constant"
 	"github.com/zhaofenghao/clash_go/transport/socks5"
-
-	"github.com/zhaofenghao/protobytes"
 )
 
 func tcpKeepAlive(c net.Conn) {

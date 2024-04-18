@@ -8,8 +8,6 @@ import (
 	"time"
 
 	"github.com/zhaofenghao/clash_go/common/pool"
-
-	"github.com/zhaofenghao/protobytes"
 )
 
 const (

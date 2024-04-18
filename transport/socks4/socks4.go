@@ -8,8 +8,6 @@ import (
 	"strconv"
 
 	"github.com/zhaofenghao/clash_go/component/auth"
-
-	"github.com/zhaofenghao/protobytes"
 )
 
 const Version = 0x04

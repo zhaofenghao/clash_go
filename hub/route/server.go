@@ -18,7 +18,6 @@ import (
 	"github.com/go-chi/cors"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
-	"github.com/zhaofenghao/protobytes"
 )
 
 var (
