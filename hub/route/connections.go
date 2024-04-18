@@ -2,7 +2,6 @@ package route
 
 import (
 	"encoding/json"
-	"github.com/Dreamacro/protobytes"
 	"net/http"
 	"strconv"
 	"time"
