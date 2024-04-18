@@ -1,4 +1,4 @@
-module github.com/Dreamacro/clash_go
+module github.com/zhaofenghao/clash_go
 
 go 1.20
 
@@ -18,7 +18,6 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.8.4
 	github.com/vishvananda/netlink v1.2.1-beta.2.0.20230420174744-55c8b9515a01
-	github.com/zhaofenghao/clash_go v0.0.0-20240418035052-4c1fb4efb7e1
 	go.etcd.io/bbolt v1.3.7
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.5.3

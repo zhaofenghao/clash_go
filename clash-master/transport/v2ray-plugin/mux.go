@@ -3,7 +3,6 @@ package obfs
 import (
 	"encoding/binary"
 	"errors"
-	"github.com/Dreamacro/protobytes"
 	"io"
 	"net"
 	"net/netip"

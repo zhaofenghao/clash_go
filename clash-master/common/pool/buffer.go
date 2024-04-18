@@ -2,7 +2,6 @@ package pool
 
 import (
 	"bytes"
-	"github.com/Dreamacro/protobytes"
 	"sync"
 )
 

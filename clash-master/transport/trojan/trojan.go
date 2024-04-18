@@ -12,7 +12,6 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/Dreamacro/protobytes"
 	C "github.com/zhaofenghao/clash_go/constant"
 	"github.com/zhaofenghao/clash_go/transport/socks5"
 	"github.com/zhaofenghao/clash_go/transport/vmess"
